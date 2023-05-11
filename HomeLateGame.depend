@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1681036484 source:c:\users\admin\onedrive\documents\c++\homelategame\main.cpp
+	<iostream>
+	"Game.h"
+	<SDL.h>
+
+1678715520 source:c:\users\admin\onedrive\documents\c++\homelategame\window.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<math.h>
+
+1681036132 source:c:\users\admin\onedrive\documents\c++\homelategame\game.cpp
+	"Game.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"TextureManager.h"
+	"GameObject.h"
+	"Map.h"
+
+1680849578 c:\users\admin\onedrive\documents\c++\homelategame\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1680659419 source:c:\users\admin\onedrive\documents\c++\homelategame\texturemanager.cpp
+	"TextureManager.h"
+
+1680659419 c:\users\admin\onedrive\documents\c++\homelategame\texturemanager.h
+	"Game.h"
+
+1680835162 c:\users\admin\onedrive\documents\c++\homelategame\gameobject.h
+	"Game.h"
+
+1680834715 source:c:\users\admin\onedrive\documents\c++\homelategame\gameobject.cpp
+	"GameObject.h"
+	"TextureManager.h"
+
+1680772976 source:c:\users\admin\onedrive\documents\c++\homelategame\map.cpp
+	"Map.h"
+	"TextureManager.h"
+
+1680772976 c:\users\admin\onedrive\documents\c++\homelategame\map.h
+	"Game.h"
+
+1683817318 source:c:\users\admin\onedrive\documents\c++\findinggranny\gameobject.cpp
+	"GameObject.h"
+	"TextureManager.h"
+
+1683779952 c:\users\admin\onedrive\documents\c++\findinggranny\gameobject.h
+	"Game.h"
+
+1683820533 c:\users\admin\onedrive\documents\c++\findinggranny\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1680659419 c:\users\admin\onedrive\documents\c++\findinggranny\texturemanager.h
+	"Game.h"
+
+1683739764 source:c:\users\admin\onedrive\documents\c++\findinggranny\main.cpp
+	<iostream>
+	"Game.h"
+	<SDL.h>
+
+1683820112 source:c:\users\admin\onedrive\documents\c++\findinggranny\map.cpp
+	"Map.h"
+	"TextureManager.h"
+	<SDL_mixer.h>
+
+1683820112 c:\users\admin\onedrive\documents\c++\findinggranny\map.h
+	"Game.h"
+
+1680659419 source:c:\users\admin\onedrive\documents\c++\findinggranny\texturemanager.cpp
+	"TextureManager.h"
+
+1681123440 source:c:\users\admin\onedrive\documents\c++\findinggranny\walk.cpp
+	"GameObject.h"
+
+1683820533 source:c:\users\admin\onedrive\documents\c++\findinggranny\game.cpp
+	"Game.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<math.h>
+	"TextureManager.h"
+	"GameObject.h"
+	"Map.h"
+	<vector>
+	"Controller.h"
+	"Animate.h"
+	"Text.h"
+	<cstdlib>
+	<time.h>
+	"Obstacle.h"
+
+1683775165 source:c:\users\admin\onedrive\documents\c++\findinggranny\controller.cpp
+	"Controller.h"
+	"Animate.h"
+	"Game.h"
+
+1683775174 c:\users\admin\onedrive\documents\c++\findinggranny\controller.h
+	"SDL.h"
+	"GameObject.h"
+
+1681977648 c:\users\admin\onedrive\documents\c++\findinggranny\animate.h
+	<SDL.h>
+	"GameObject.h"
+
+1681887556 source:c:\users\admin\onedrive\documents\c++\findinggranny\sprite.cpp
+	"Sprite.h"
+
+1681887503 c:\users\admin\onedrive\documents\c++\findinggranny\sprite.h
+	<SDL.h>
+
+1683292683 source:c:\users\admin\onedrive\documents\c++\findinggranny\animate.cpp
+	"Animate.h"
+
+1683272743 c:\users\admin\onedrive\documents\c++\findinggranny\text.h
+	<SDL_ttf.h>
+	<string>
+
+1683787224 source:c:\users\admin\onedrive\documents\c++\findinggranny\text.cpp
+	"Text.h"
+	<SDL_ttf.h>
+	"Game.h"
+	<string>
+
+1683784844 c:\users\admin\onedrive\documents\c++\findinggranny\obstacle.h
+	<SDL.h>
+
+1683786354 source:c:\users\admin\onedrive\documents\c++\findinggranny\obstacle.cpp
+	"Obstacle.h"
+	<cstdlib>
+	<ctime>
+	"TextureManager.h"
+	<random>
+	<math.h>
+
